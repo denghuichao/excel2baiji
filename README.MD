@@ -3,3 +3,5 @@
 
 ## 使用方法
 命令行运行: java -jar excel2baiji.jar [INPUT_FILE] [OUTPUT_FILE]
+
+## May you enjoy using this util!
